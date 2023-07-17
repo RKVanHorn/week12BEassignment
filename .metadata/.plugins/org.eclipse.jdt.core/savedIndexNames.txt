@@ -1,0 +1,24 @@
+INDEX VERSION 1.132+C:\Users\acino\Promineo\Promineo_Tech_BE\Week-12-JUnit_Testing\week12BEassignment\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+4187729716.index
+3480837027.index
+3609536598.index
+3089528783.index
+1532316409.index
+3115784635.index
+4135456415.index
+564883776.index
+1395092569.index
+3112315300.index
+395221867.index
+2714749544.index
+1040918443.index
+2676811038.index
+696920930.index
+652696929.index
+2143319325.index
+4275669669.index
+1865797976.index
+1827977619.index
+1893281475.index
+1875987026.index
